@@ -1,2 +1,2 @@
-# machine-learning
-机器视觉
+### 计算机视觉相关
+运行环境 python:3.9.5 oepncv:4.5.5.62
